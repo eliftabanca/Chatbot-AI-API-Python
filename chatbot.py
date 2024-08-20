@@ -3,7 +3,7 @@ from config import *
 from utils import *
 
 
-# OpenAI API anahtarını ayarlama
+
 openai.api_key = API_KEY
 
 def get_ai_response(prompt):
